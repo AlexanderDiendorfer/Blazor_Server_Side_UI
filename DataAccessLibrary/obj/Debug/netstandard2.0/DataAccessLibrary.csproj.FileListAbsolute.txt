@@ -1,0 +1,8 @@
+C:\Users\Alexander Diendorfer\Documents\Projects\Blazor\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.deps.json
+C:\Users\Alexander Diendorfer\Documents\Projects\Blazor\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.dll
+C:\Users\Alexander Diendorfer\Documents\Projects\Blazor\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\Alexander Diendorfer\Documents\Projects\Blazor\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\Alexander Diendorfer\Documents\Projects\Blazor\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\Alexander Diendorfer\Documents\Projects\Blazor\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.pdb
+C:\Users\Alexander Diendorfer\Documents\Projects\Blazor\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.dll
+C:\Users\Alexander Diendorfer\Documents\Projects\Blazor\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.pdb
